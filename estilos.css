@@ -33,3 +33,42 @@ p{
     height: 150px;
     background-color: hsl(240, 50%, 80%);
 }
+
+*{
+    color: darkblue;
+    font-weight: bolder;
+}
+
+#soy_unico{
+    width: 250px;
+    height: 50px;
+    background-color: palevioletred
+}
+
+a[title]{
+    color: slateblue;
+}
+
+button:hover{
+    background-color: darkslateblue;
+    color: white;
+}
+
+input:disabled{
+    background-color: lightskyblue;
+}
+
+p::first-line{
+    color : darksalmon;
+}
+
+p::first-letter{
+    color: darkred;
+    font-size: 45px;
+}
+
+.capibara1, .capibara2, .capibara3{
+    width: 100px;
+    height: 100px;
+    background-color: hotpink;
+}
