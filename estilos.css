@@ -1,7 +1,7 @@
 div{
     width: 250px;
     height: 250px;
-    background-color: #e5989b;
+    background-color: pink;
 }
 
 p{
@@ -11,5 +11,25 @@ p{
 .caja{
     width: 150px;
     height: 150px;
-    background-color: rgb(96, 167, 170)
+    background-color: rgb(159, 106, 141)
+}
+
+.otra_caja{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(147, 89, 128,0.5);
+    /*position: fixed;
+    top: 0;*/
+}
+
+.una_caja_mas{
+    width: 150px;
+    height: 150px;
+    background-color: #735d78;
+}
+
+.capibara{
+    width: 150px;
+    height: 150px;
+    background-color: hsl(240, 50%, 80%);
 }
