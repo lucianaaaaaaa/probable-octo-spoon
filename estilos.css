@@ -1,0 +1,15 @@
+div{
+    width: 250px;
+    height: 250px;
+    background-color: #e5989b;
+}
+
+p{
+    color: violet;
+}
+
+.caja{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(96, 167, 170)
+}
