@@ -3,11 +3,11 @@ div{
     height: 250px;
     background-color: pink;
 }
-
+/*
 p{
     color: violet;
 }
-
+*/
 .caja{
     width: 150px;
     height: 150px;
@@ -57,7 +57,7 @@ button:hover{
 input:disabled{
     background-color: lightskyblue;
 }
-
+/*
 p::first-line{
     color : darksalmon;
 }
@@ -66,9 +66,13 @@ p::first-letter{
     color: darkred;
     font-size: 45px;
 }
-
+*/
 .capibara1, .capibara2, .capibara3{
     width: 100px;
     height: 100px;
     background-color: hotpink;
+}
+
+.padre p{
+    color: indianred;
 }
